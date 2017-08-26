@@ -24,6 +24,7 @@
   <img class="materialboxed" data-caption="DANUBE Washer Extractor" width="100%" src="/allassets/Washer.jpg">
                            <h5 class="center orange-text">Washer Extractor</h5>
                            <p class="light">With Standard WET CLEANING feature</p>
+						   <a class="blue-text" href="/WasherExtractor/"> Know More...</a>
                         </div>
                      </div>
                      <div class="col s12 m6">
@@ -31,6 +32,7 @@
   <img class="materialboxed" data-caption="DANUBE Tumble Dryer" width="100%" src="/allassets/Tumble_Dryer.jpg">
                            <h5 class="center orange-text">Tumble Dryer</h5>
                            <p class="light">Wrincle free Drying to Clothes.</p>
+						   <a class="blue-text" href="/TumbleDryer/"> Know More...</a>
                         </div>
                      </div>
                      <div class="col s12 m12">
@@ -38,12 +40,12 @@
   <img class="materialboxed" data-caption="DANUBE Calendering Machine" width="100%" src="/allassets/Calender.jpg">
                            <h5 class="center orange-text">Calendering Machine</h5>
                            <p class="light">Calendering Machines.</p>
+						   <a class="blue-text" href="/Calender/"> Know More...</a>
                         </div>
                      </div>
                   </div>
                </div>
-               <br><br>
-			                  <div class="section">
+	           <div class="section">
 							  <h5 class="orange-text">Mission</h5>
 			       <p class="flow-text">
 Provide laundry technology to achieve professional quality control in washing, drying, ironing and
