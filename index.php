@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-      <link rel="stylesheet" href="/allassets/codes/materialize.min.css">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	  <meta name="theme-color" content="#ffa726">
-      <title>A2Z Laundry Solutions</title>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/allassets/codes/head.php');?>
    </head>
    <body>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/allassets/codes/nav.php');?>
@@ -15,6 +11,7 @@
             <h1 class="header center orange-text">A2Z Laundry Solutions</h1>
             <div class="row center">
                <h5 class="header col s12 light">Professional Solution to Professional Wash</h5>
+			     <img width="40%" src="/allassets/danube-logo-2012.jpg">
             </div>
             <div class="container">
                <div class="section">
