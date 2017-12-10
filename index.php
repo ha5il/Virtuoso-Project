@@ -11,7 +11,7 @@
             <h1 class="header center orange-text">A2Z Laundry Solutions</h1>
             <div class="row center">
                <h5 class="header col s12 light">Professional Solution to Professional Wash</h5>
-			     <img width="40%" src="/allassets/danube-logo-2012.jpg">
+			     <img width="80%" src="/allassets/danube-logo-2012.jpg">
             </div>
             <div class="container">
                <div class="section">
@@ -56,7 +56,7 @@ finishing.</p>
 2. Change features of machines as per requirement while placing order. Features like selfservice,
 computer integration, professional washing accessories interface, remote
 control…<br>
-3. Installation of Machine and its Service<br>
+3. Installation of Machine, Service, AMC, Machine auditing...<br>
 4. Teaching the staff to operate machine and resolve any issue they face while working with
 it.<br>
 5. Consulting about further steps to be taken for growth of business.</p>
